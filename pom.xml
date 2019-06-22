@@ -64,7 +64,7 @@
                         <manifest>
                             <addClasspath>true</addClasspath>
                             <classpathPrefix>lib/</classpathPrefix>
-                            <mainClass>com.sda.exercises.Zadanie1</mainClass>
+                            <mainClass>com.sda.Zadanie11.Mainclass</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
